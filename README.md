@@ -1,6 +1,7 @@
 # theperfectgiftcard-cli
 [![GoDoc](https://godoc.org/github.com/rayou/theperfectgiftcard-cli?status.svg)](https://godoc.org/github.com/rayou/theperfectgiftcard-cli)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rayou/theperfectgiftcard-cli)](https://goreportcard.com/report/github.com/rayou/theperfectgiftcard-cli)
+[![Coverage Status](https://coveralls.io/repos/github/rayou/theperfectgiftcard-cli/badge.svg)](https://coveralls.io/github/rayou/theperfectgiftcard-cli)
 
 The Perfect Gift Card cli - Display card summary and transaction history. 
 
