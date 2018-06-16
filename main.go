@@ -20,7 +20,7 @@ func main() {
 	app.Usage = "Display card summary and transaction history"
 	app.Version = "1.0.0"
 	app.Authors = []cli.Author{
-		cli.Author{
+		{
 			Name:  "Ray Ou",
 			Email: "yuhung.ou@live.com",
 		},
