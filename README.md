@@ -1,7 +1,10 @@
+[donation]: https://donorbox.org/rayou?amount=10
+
 # theperfectgiftcard-cli
 [![GoDoc](https://godoc.org/github.com/rayou/theperfectgiftcard-cli?status.svg)](https://godoc.org/github.com/rayou/theperfectgiftcard-cli)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rayou/theperfectgiftcard-cli)](https://goreportcard.com/report/github.com/rayou/theperfectgiftcard-cli)
 [![Coverage Status](https://coveralls.io/repos/github/rayou/theperfectgiftcard-cli/badge.svg)](https://coveralls.io/github/rayou/theperfectgiftcard-cli)
+[![](https://img.shields.io/badge/Donate-Donorbox-green.svg)][donation]
 
 The Perfect Gift Card cli - Display card summary and transaction history. 
 
@@ -104,6 +107,10 @@ PRs are welcome.
 ## Author
 
 Ray Ou - yuhung.ou@live.com
+
+# Donation
+
+[![](https://d1iczxrky3cnb2.cloudfront.net/button-small-green.png)][donation]
 
 ## License
 
